@@ -1,3 +1,0 @@
-*.tfam filter=lfs diff=lfs merge=lfs -text
-*.tpam filter=lfs diff=lfs merge=lfs -text
-*.tped filter=lfs diff=lfs merge=lfs -text
